@@ -1,0 +1,19 @@
+Build date: 25/11/2025
+- Fixed Fast Charging
+- Fixed WPA3 WiFi
+- Fixed inconsistent LTE network
+- Fixed lags in settings
+- Fixed audio routing through DAC / wired headphones
+- Fixed lags in videos
+- Fixed USB Tethering
+- Updated blobs from OS2.0.207.0.VNOMIXM
+- Enabled zRAM writeback
+- Moved to 8GB dalvik-heap configs
+- Moved to kyber I/O Scheduler
+- Moved to OSS sensors subhal wrapper
+- Tuned SF work durations
+- Many perf tunings
+- Silenced some spammy logging
+- Removed unused blobs
+- Dropped Miui Camera (Has Aperture by default)
+- Dropped Dolby Atmos support (Useless)
